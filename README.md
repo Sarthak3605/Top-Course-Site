@@ -1,10 +1,10 @@
-# Top Course Site
+# Top Course Site (CourseQuest)
 
 Top Course Site is a web application designed to help users filter and discover courses based on different domains. Users can select specific domains to view courses related to those domains and also like their favorite courses.
 
 ## Installation
 
-To get started with Top Course Site, follow these steps:
+To get started with CourseQuest, follow these steps:
 
 1. **Clone the repository:**
    ```
